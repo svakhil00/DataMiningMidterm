@@ -1,0 +1,10 @@
+# For more information, refer to DataMiningMidtermReport.ipynb
+# Python Version
+This project uses version 3.12 of Python. Please make sure you have the correct version before running the program.
+
+# Installation Commands - install these before running program
+pip install efficient_apriori
+pip install fpgrowth_py
+
+# Running The Program
+python apriori.py
